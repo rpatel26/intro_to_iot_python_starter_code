@@ -1,18 +1,15 @@
+import RGB_LED
+
 import time
 
-from libraries.RGB_LED import RGB_LED
-
-#from libraries.RGB_LED.COLOR import Color
-from libraries.RGB_LED.RGB_LED.COLOR import Color
+from RGB_LED.COLOR import Color
 
 red_pin = 22
 green_pin = 27
 blue_pin = 17
-
-
 is_common_anode=True
 
-rgb = RGB_LED(red_pin, green_pin, blue_pin,is_common_anode)
+rgb = RGB_LED.RGB_LED(red_pin, green_pin, blue_pin,is_common_anode)
 
 color = Color()
 
