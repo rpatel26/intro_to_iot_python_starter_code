@@ -1,0 +1,274 @@
+REGEDIT4
+;SolidWorks Copy Settings Wizard
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray\3_65]
+"fVirt"=dword:00000003
+"key"=dword:00000041
+"cmd"=dword:0000833a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray\3_67]
+"fVirt"=dword:00000003
+"key"=dword:00000043
+"cmd"=dword:00008075
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray\3_69]
+"fVirt"=dword:00000003
+"key"=dword:00000045
+"cmd"=dword:00008003
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray\3_77]
+"fVirt"=dword:00000003
+"key"=dword:0000004d
+"cmd"=dword:00008129
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray\3_82]
+"fVirt"=dword:00000003
+"key"=dword:00000052
+"cmd"=dword:0000aa8a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray\3_88]
+"fVirt"=dword:00000003
+"key"=dword:00000058
+"cmd"=dword:0000809e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray\7_69]
+"fVirt"=dword:00000007
+"key"=dword:00000045
+"cmd"=dword:00008007
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\AddArray\7_82]
+"fVirt"=dword:00000007
+"key"=dword:00000052
+"cmd"=dword:00008032
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\SubArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\SubArray\3_13]
+"fVirt"=dword:00000003
+"key"=dword:0000000d
+"cmd"=dword:0000967c
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\SubArray\3_65]
+"fVirt"=dword:00000003
+"key"=dword:00000041
+"cmd"=dword:0000923a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\SubArray\3_67]
+"fVirt"=dword:00000003
+"key"=dword:00000043
+"cmd"=dword:000095bf
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\SubArray\3_69]
+"fVirt"=dword:00000003
+"key"=dword:00000045
+"cmd"=dword:000083ec
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\SubArray\3_82]
+"fVirt"=dword:00000003
+"key"=dword:00000052
+"cmd"=dword:0000c975
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate0\Custom Accelerators\SubArray\3_88]
+"fVirt"=dword:00000003
+"key"=dword:00000058
+"cmd"=dword:000083ed
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray\3_65]
+"fVirt"=dword:00000003
+"key"=dword:00000041
+"cmd"=dword:0000833a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray\3_67]
+"fVirt"=dword:00000003
+"key"=dword:00000043
+"cmd"=dword:00008075
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray\3_69]
+"fVirt"=dword:00000003
+"key"=dword:00000045
+"cmd"=dword:00008003
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray\3_77]
+"fVirt"=dword:00000003
+"key"=dword:0000004d
+"cmd"=dword:00008129
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray\3_82]
+"fVirt"=dword:00000003
+"key"=dword:00000052
+"cmd"=dword:0000aa8a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray\3_88]
+"fVirt"=dword:00000003
+"key"=dword:00000058
+"cmd"=dword:0000809e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray\7_69]
+"fVirt"=dword:00000007
+"key"=dword:00000045
+"cmd"=dword:00008007
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\AddArray\7_82]
+"fVirt"=dword:00000007
+"key"=dword:00000052
+"cmd"=dword:00008032
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\SubArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\SubArray\3_13]
+"fVirt"=dword:00000003
+"key"=dword:0000000d
+"cmd"=dword:0000967c
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\SubArray\3_65]
+"fVirt"=dword:00000003
+"key"=dword:00000041
+"cmd"=dword:0000923a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\SubArray\3_67]
+"fVirt"=dword:00000003
+"key"=dword:00000043
+"cmd"=dword:000095bf
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\SubArray\3_69]
+"fVirt"=dword:00000003
+"key"=dword:00000045
+"cmd"=dword:000083ec
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\SubArray\3_82]
+"fVirt"=dword:00000003
+"key"=dword:00000052
+"cmd"=dword:0000c975
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate1\Custom Accelerators\SubArray\3_88]
+"fVirt"=dword:00000003
+"key"=dword:00000058
+"cmd"=dword:000083ed
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray\3_65]
+"fVirt"=dword:00000003
+"key"=dword:00000041
+"cmd"=dword:0000833a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray\3_67]
+"fVirt"=dword:00000003
+"key"=dword:00000043
+"cmd"=dword:00008075
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray\3_69]
+"fVirt"=dword:00000003
+"key"=dword:00000045
+"cmd"=dword:00008003
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray\3_77]
+"fVirt"=dword:00000003
+"key"=dword:0000004d
+"cmd"=dword:00008129
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray\3_82]
+"fVirt"=dword:00000003
+"key"=dword:00000052
+"cmd"=dword:0000aa8a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray\3_88]
+"fVirt"=dword:00000003
+"key"=dword:00000058
+"cmd"=dword:0000809e
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray\7_69]
+"fVirt"=dword:00000007
+"key"=dword:00000045
+"cmd"=dword:00008007
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\AddArray\7_82]
+"fVirt"=dword:00000007
+"key"=dword:00000052
+"cmd"=dword:00008032
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\SubArray]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\SubArray\3_13]
+"fVirt"=dword:00000003
+"key"=dword:0000000d
+"cmd"=dword:0000967c
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\SubArray\3_65]
+"fVirt"=dword:00000003
+"key"=dword:00000041
+"cmd"=dword:0000923a
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\SubArray\3_67]
+"fVirt"=dword:00000003
+"key"=dword:00000043
+"cmd"=dword:000095bf
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\SubArray\3_69]
+"fVirt"=dword:00000003
+"key"=dword:00000045
+"cmd"=dword:000083ec
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\SubArray\3_82]
+"fVirt"=dword:00000003
+"key"=dword:00000052
+"cmd"=dword:0000c975
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\Customization\tPlate2\Custom Accelerators\SubArray\3_88]
+"fVirt"=dword:00000003
+"key"=dword:00000058
+"cmd"=dword:000083ed
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\User Interface\Settings\Mouse Gestures]
+"Use Mouse Gestures"=dword:00000001
+"Use Eight Mouse Gestures"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\User Interface\Settings\Mouse Gestures\Assembly]
+"gestureLeft"=dword:00008069
+"gestureRight"=dword:00008075
+"gestureUp"=dword:0000805e
+"gestureDown"=dword:000080cd
+"gestureDiagUpLeft"=dword:0000813d
+"gestureDiagUpRight"=dword:00008053
+"gestureDiagDownRight"=dword:00008051
+"gestureDiagDownLeft"=dword:00008050
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\User Interface\Settings\Mouse Gestures\Drawing]
+"gestureLeft"=dword:0000832e
+"gestureRight"=dword:0000832f
+"gestureUp"=dword:0000832d
+"gestureDown"=dword:00008330
+"gestureDiagUpLeft"=dword:0000832b
+"gestureDiagUpRight"=dword:0000957d
+"gestureDiagDownRight"=dword:00008535
+"gestureDiagDownLeft"=dword:0000832c
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\User Interface\Settings\Mouse Gestures\Part]
+"gestureLeft"=dword:0000832e
+"gestureRight"=dword:0000832f
+"gestureUp"=dword:0000832d
+"gestureDown"=dword:00008330
+"gestureDiagUpLeft"=dword:0000832b
+"gestureDiagUpRight"=dword:0000957d
+"gestureDiagDownRight"=dword:00008535
+"gestureDiagDownLeft"=dword:0000832c
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2017\User Interface\Settings\Mouse Gestures\Sketch]
+"gestureLeft"=dword:00008079
+"gestureRight"=dword:000080a0
+"gestureUp"=dword:0000805e
+"gestureDown"=dword:000080d2
+"gestureDiagUpLeft"=dword:0000809b
+"gestureDiagUpRight"=dword:00008074
+"gestureDiagDownRight"=dword:000080a1
+"gestureDiagDownLeft"=dword:0000809e
